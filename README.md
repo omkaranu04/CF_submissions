@@ -1,4 +1,4 @@
 ## Codeforces
--> Here I upload all my CodeForces Submissions
+-> In this repository I upload all my CodeForces Submissions
 
 -> 💻 [Codeforces](https://codeforces.com/)
